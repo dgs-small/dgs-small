@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Lucas, and I'm a software engeneering student
 
-- 🌱 I’m currently learning android development with Koltlin, and Back-end development using Java with Spring.
+- 🌱 I’m currently learning android development with Kotlin, and Back-end development using Java with Spring.
 
 
 <div align="center">
